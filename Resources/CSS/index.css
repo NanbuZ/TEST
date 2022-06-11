@@ -1,0 +1,44 @@
+header {
+    background-color: #ff95e1;
+    position: fixed;
+    width: 100%;
+}
+.main {
+    background-color: #36454F;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 5rem;
+    padding-top: 1rem;
+  }
+
+nav {
+    margin: 0;
+    padding: 20px 0;
+  }
+  
+  nav li {
+    color: rgb(240, 146, 241);
+    font-family: 'Century Gothic', sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+    display: inline-block;
+    width: 80px;
+  }
+
+.banner{
+    background-color:pink;
+    color:darkred;
+    margin-top: 75px;
+    text-align: center;
+    padding: 20px 0;
+}
+
+#cis2022{
+    height: 378px;
+    width: 300px;
+}
+
+.bold{
+    font-weight: 900;
+}
